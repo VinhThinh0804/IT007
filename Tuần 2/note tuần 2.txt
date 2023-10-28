@@ -1,0 +1,10 @@
+lệnh more để hiển thị file	
+"in ra chuỗi lẫn giá trị của biến"
+'tất cả đều hiểu là chuỗi'
+echo là lệnh in ra
+$stt in ra giống c#
+read + ten_bien là đọc biến từ bàn phím
+kiểm tra điều kiện [ dieu_kien ]
+dấu a=b là gán, a = b là check điều kiện
+$(đuôi file)
+$((số học))
